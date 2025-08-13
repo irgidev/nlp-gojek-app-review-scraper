@@ -27,7 +27,7 @@ Make sure you have Python 3 installed on your system. You will also need to inst
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/gojek-app-review-scraper.git](https://github.com/your-username/gojek-app-review-scraper.git)
+    git clone [https://github.com/irgidev/gojek-app-review-scraper.git](https://github.com/irgidev/gojek-app-review-scraper.git)
     cd gojek-app-review-scraper
     ```
 
@@ -59,5 +59,6 @@ A full list of dependencies can be found in the `requirements.txt` file.
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
 
 ---
